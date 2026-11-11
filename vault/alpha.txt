@@ -1,4 +1,4 @@
 === VAULT ALPHA ===
 content: 0xC0FFEE
-STATUS: OPPEN
+STATUS: OPEN
 
